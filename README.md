@@ -11,8 +11,8 @@ Welcome to the Simple Business Website repository! This project is a simple busi
 
 
 ## Demo
+![business site](https://github.com/Piyush5784/Business-site/assets/105655779/1f0d8c5d-94e7-4ab1-b28c-1a48fb119f19)
 
-Include a screenshot or a link to the live demo of your website.
 
 ![Simple Business Website Demo](url/to/your/screenshot.png)
 
